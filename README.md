@@ -76,4 +76,4 @@ Unauthorised use of this tool against networks you do not own or have explicit w
 
 ---
 
-*Generated with ❤️ by itsrajadarsh*
+Authored by [itsrajadarsh](https://github.com/itsrajadarsh)
